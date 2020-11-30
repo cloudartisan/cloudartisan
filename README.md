@@ -16,6 +16,8 @@
 - [Answer by cloudartisan for Is it possible to access module state in a terraform remote state file?](https://stackoverflow.com/questions/39730436/is-it-possible-to-access-module-state-in-a-terraform-remote-state-file/39785310#39785310)
 <!-- STACKOVERFLOW:END -->
 
+[more activity...](https://stackoverflow.com/users/1014241/cloudartisan?tab=profile)
+
 ---
 
 ### 📺 Latest YouTube Videos
@@ -34,6 +36,9 @@
 [<img align="left" alt="cloudartisan | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="cloudartisan | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="cloudartisan | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+
+<br />
+<br />
 
 ---
 
