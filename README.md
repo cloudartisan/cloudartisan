@@ -3,7 +3,7 @@
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
- [more blog posts...](https:/cloudartisan.com)
+[more blog posts...](https://cloudartisan.com)
 
 ---
 
@@ -23,7 +23,7 @@
 <!-- YOUTUBE:START -->
 <!-- YOUTUBE:END -->
 
-[more videos...](https://youtube.com/UCI8cz39EEKcV4Hox1Ci7ZgQ)
+[more videos...](https://www.youtube.com/channel/UCI8cz39EEKcV4Hox1Ci7ZgQ)
 
 ---
 
@@ -37,16 +37,13 @@
 
 ---
 
-<details>
-  <summary>:zap: My GitHub Stats</summary>
+<img align="left" alt="cloudartisan's GitHub Stats"
+src="https://github-readme-stats.vercel.app/api?username=cloudartisan&show_icons=true&hide_border=true"
+/>
 
-  <img align="left" alt="cloudartisan's GitHub Stats"
-  src="https://github-readme-stats.codestackr.vercel.app/api?username=cloudartisan&show_icons=true&hide_border=true"
-  />
-
-  [![My Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cloudartisan)](https://github.com/anuraghazra/github-readme-stats)
-
-</details>
+<img align="right" alt="cloudartisan's GitHub Language Stats"
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=cloudartisan"
+/>
 
 [website]: https://cloudartisan.com
 [twitter]: https://twitter.com/davidltaylor
