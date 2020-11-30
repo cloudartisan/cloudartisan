@@ -30,12 +30,16 @@
 [<img align="left" alt="cloudartisan | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="cloudartisan | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
+---
+
 <details>
   <summary>:zap: My GitHub Stats</summary>
 
   <img align="left" alt="cloudartisan's GitHub Stats"
   src="https://github-readme-stats.codestackr.vercel.app/api?username=cloudartisan&show_icons=true&hide_border=true"
   />
+
+  [![My Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cloudartisan)](https://github.com/anuraghazra/github-readme-stats)
 
 </details>
 
