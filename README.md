@@ -9,11 +9,11 @@
 
 ### Latest StackOverflow Activity
 <!-- STACKOVERFLOW:START -->
+- [Answer by cloudartisan for How to list all of the attributes in a terraform_remote_state datasource?](https://stackoverflow.com/questions/65081405/how-to-list-all-of-the-attributes-in-a-terraform-remote-state-datasource/65085491#65085491)
+- [Answer by cloudartisan for Terraform deploy module with a condition](https://stackoverflow.com/questions/65083518/terraform-deploy-module-with-a-condition/65085454#65085454)
 - [Answer by cloudartisan for Can we write logics in Terraform Code (IaC) anything like using count.index[ ]?](https://stackoverflow.com/questions/65026218/can-we-write-logics-in-terraform-code-iac-anything-like-using-count-index/65073211#65073211)
 - [Answer by cloudartisan for Jenkins pipeline using groovy script : Error while executing sh command](https://stackoverflow.com/questions/52192369/jenkins-pipeline-using-groovy-script-error-while-executing-sh-command/52195375#52195375)
 - [Answer by cloudartisan for Copy a variable in python (jupyter) / Use different functions with same variables](https://stackoverflow.com/questions/52194648/copy-a-variable-in-python-jupyter-use-different-functions-with-same-variable/52194668#52194668)
-- [Answer by cloudartisan for Jenkins withCredentials in dynamic selected parameters](https://stackoverflow.com/questions/41961632/jenkins-withcredentials-in-dynamic-selected-parameters/45204596#45204596)
-- [Answer by cloudartisan for quote around the output value using terraform "local-exec" provisioner](https://stackoverflow.com/questions/35426605/quote-around-the-output-value-using-terraform-local-exec-provisioner/39788410#39788410)
 <!-- STACKOVERFLOW:END -->
 
 [more activity...](https://stackoverflow.com/users/1014241/cloudartisan?tab=profile)
