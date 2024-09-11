@@ -47,7 +47,7 @@ src="https://github-readme-stats.vercel.app/api?username=cloudartisan&show_icons
 />
 
 <img align="right" alt="cloudartisan's GitHub Language Stats"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=cloudartisan"
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=cloudartisan&hide=php"
 />
 
 [website]: https://cloudartisan.com
