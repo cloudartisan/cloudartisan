@@ -31,14 +31,11 @@
 
 ### Connect With Me
 
-[<img align="left" alt="cloudartisan | Web Site" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="cloudartisan | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="cloudartisan | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="cloudartisan | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="cloudartisan | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-
-<br />
-<br />
+[<img align="left" alt="cloudartisan | Web Site" width="22px" src="https://cdn.simpleicons.org/githubpages/black/white" />][website]
+[<img align="left" alt="cloudartisan | YouTube" width="22px" src="https://cdn.simpleicons.org/youtube" />][youtube]
+[<img align="left" alt="cloudartisan | Twitter" width="22px" src="https://cdn.simpleicons.org/x/black/white" />][twitter]
+[<img align="left" alt="cloudartisan | LinkedIn" width="22px" src="https://cdn.simpleicons.org/linkedin" />][linkedin]
+[<img align="left" alt="cloudartisan | Instagram" width="22px" src="https://cdn.simpleicons.org/instagram" />][instagram]
 
 ---
 
