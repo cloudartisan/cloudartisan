@@ -37,6 +37,8 @@
 [<img align="left" alt="cloudartisan | LinkedIn" width="22px" src="https://cdn.simpleicons.org/linkedin" />][linkedin]
 [<img align="left" alt="cloudartisan | Instagram" width="22px" src="https://cdn.simpleicons.org/instagram" />][instagram]
 
+</br>
+
 ---
 
 <img align="left" alt="cloudartisan's GitHub Stats"
