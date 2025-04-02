@@ -53,4 +53,4 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=cloudartisan
 [twitter]: https://twitter.com/davidltaylor
 [youtube]: https://youtube.com/UCI8cz39EEKcV4Hox1Ci7ZgQ
 [instagram]: https://instagram.com/davidltaylor
-[linkedin]: https://linkedin.com/in/davidleslietaylor
+[linkedin]: https://linkedin.com/in/cloudartisan
