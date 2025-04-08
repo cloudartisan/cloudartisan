@@ -31,10 +31,10 @@
 
 ### Connect With Me
 
-[<img align="left" alt="cloudartisan | Web Site" width="22px" src="https://cdn.simpleicons.org/githubpages/black/white" />][website]
+[<img align="left" alt="cloudartisan | Web Site" width="22px" src="https://img.icons8.com/fluency-systems-filled/48/FFFFFF/globe.png" />][website]
 [<img align="left" alt="cloudartisan | YouTube" width="22px" src="https://cdn.simpleicons.org/youtube" />][youtube]
 [<img align="left" alt="cloudartisan | Twitter" width="22px" src="https://cdn.simpleicons.org/x/black/white" />][twitter]
-[<img align="left" alt="cloudartisan | LinkedIn" width="22px" src="https://cdn.simpleicons.org/linkedin" />][linkedin]
+[<img align="left" alt="cloudartisan | LinkedIn" width="22px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/linkedin.svg" />][linkedin]
 [<img align="left" alt="cloudartisan | Instagram" width="22px" src="https://cdn.simpleicons.org/instagram" />][instagram]
 
 </br>
